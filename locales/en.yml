@@ -1,0 +1,35 @@
+components:
+  language_switcher:
+    change_language: changer la language
+  theme_switcher:
+    theme: theme
+    change_theme: change theme
+pages:
+  index:
+    title: AB Solutions , Innovation , Professionnelle
+  blank:
+    nav: Services
+    title: blank page
+    just_blank_page_with_title: Services
+  test:
+    nav: Contact
+    title: testing
+    counter: counter
+    increment: increment
+    decrement: decrement
+    reset: reset
+    identity: identity
+    full_name: fullName
+  about:
+    nav: Qui sommes nous ?
+    title: about
+  dashboard:
+    nav: dashboard
+    title: dashboard
+    index:
+      nav: home
+      title: home
+banners:
+  welcome: Choisissez %{app_name}!
+others:
+  learn_more: Horizon-Data
