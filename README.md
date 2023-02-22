@@ -6,7 +6,7 @@ AB solutions website is a SSR web app using NUXT3/Vuejs , tailwindCSS ...
 # 
 ## Vue.js Nuxt.js Framework. The best
 
-<img align="left" height="170" src="https://ibb.co/gwyHd8v"/>
+<img align="left" height="170" src="tuto.gif"/>
 
 
 
